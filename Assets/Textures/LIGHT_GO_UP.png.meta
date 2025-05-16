@@ -1,0 +1,2316 @@
+fileFormatVersion: 2
+guid: 418f125c666b9514bb8d39024c651aeb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6724113422955257518
+    second: LIGHT_GO_UP_0
+  - first:
+      213: 1679522799104583150
+    second: LIGHT_GO_UP_1
+  - first:
+      213: -632705796432553747
+    second: LIGHT_GO_UP_2
+  - first:
+      213: 7314276907003569840
+    second: LIGHT_GO_UP_3
+  - first:
+      213: -1667092694784137974
+    second: LIGHT_GO_UP_4
+  - first:
+      213: -138638445750747753
+    second: LIGHT_GO_UP_5
+  - first:
+      213: 3643132864758391788
+    second: LIGHT_GO_UP_6
+  - first:
+      213: 924249055133832275
+    second: LIGHT_GO_UP_7
+  - first:
+      213: -220288294389375373
+    second: LIGHT_GO_UP_8
+  - first:
+      213: 6720713004443080946
+    second: LIGHT_GO_UP_9
+  - first:
+      213: -1617239365275106715
+    second: LIGHT_GO_UP_10
+  - first:
+      213: -9167538445927948304
+    second: LIGHT_GO_UP_11
+  - first:
+      213: -6909595056022171090
+    second: LIGHT_GO_UP_12
+  - first:
+      213: -3336445780788154289
+    second: LIGHT_GO_UP_13
+  - first:
+      213: -383224202060729643
+    second: LIGHT_GO_UP_14
+  - first:
+      213: 715246661603174036
+    second: LIGHT_GO_UP_15
+  - first:
+      213: 4836989713222281324
+    second: LIGHT_GO_UP_16
+  - first:
+      213: 193515752540964059
+    second: LIGHT_GO_UP_17
+  - first:
+      213: 4467762014398318569
+    second: LIGHT_GO_UP_18
+  - first:
+      213: 9210905670037829386
+    second: LIGHT_GO_UP_19
+  - first:
+      213: 1240755175799730865
+    second: LIGHT_GO_UP_20
+  - first:
+      213: -5272802888017268045
+    second: LIGHT_GO_UP_21
+  - first:
+      213: 7880821800608392256
+    second: LIGHT_GO_UP_22
+  - first:
+      213: -8120127204254254425
+    second: LIGHT_GO_UP_23
+  - first:
+      213: 3800117060288714397
+    second: LIGHT_GO_UP_24
+  - first:
+      213: -8324831987238830733
+    second: LIGHT_GO_UP_25
+  - first:
+      213: 3502592861106554006
+    second: LIGHT_GO_UP_26
+  - first:
+      213: -897465413171646061
+    second: LIGHT_GO_UP_27
+  - first:
+      213: 2523086910252762676
+    second: LIGHT_GO_UP_28
+  - first:
+      213: 1493347018577550066
+    second: LIGHT_GO_UP_29
+  - first:
+      213: 3248468361693942031
+    second: LIGHT_GO_UP_30
+  - first:
+      213: 3217361661760630994
+    second: LIGHT_GO_UP_31
+  - first:
+      213: -302745455966191262
+    second: LIGHT_GO_UP_32
+  - first:
+      213: 8937277085857899477
+    second: LIGHT_GO_UP_33
+  - first:
+      213: 9014409694519286192
+    second: LIGHT_GO_UP_34
+  - first:
+      213: -6409478991430561554
+    second: LIGHT_GO_UP_35
+  - first:
+      213: 6122604862306188992
+    second: LIGHT_GO_UP_36
+  - first:
+      213: 5110620348035713119
+    second: LIGHT_GO_UP_37
+  - first:
+      213: -7554640316863313197
+    second: LIGHT_GO_UP_38
+  - first:
+      213: -290603986458418151
+    second: LIGHT_GO_UP_39
+  - first:
+      213: 7138979054085333970
+    second: LIGHT_GO_UP_40
+  - first:
+      213: -1239289651165687255
+    second: LIGHT_GO_UP_41
+  - first:
+      213: 6436111553470608779
+    second: LIGHT_GO_UP_42
+  - first:
+      213: -4992955494945725162
+    second: LIGHT_GO_UP_43
+  - first:
+      213: 2660160023919790179
+    second: LIGHT_GO_UP_44
+  - first:
+      213: -1223370089804142748
+    second: LIGHT_GO_UP_45
+  - first:
+      213: 8943117321374527540
+    second: LIGHT_GO_UP_46
+  - first:
+      213: -7465447018442791049
+    second: LIGHT_GO_UP_47
+  - first:
+      213: 4068359428150362274
+    second: LIGHT_GO_UP_48
+  - first:
+      213: 8823453216059142701
+    second: LIGHT_GO_UP_49
+  - first:
+      213: 5928776451814910079
+    second: LIGHT_GO_UP_50
+  - first:
+      213: 8432408100757967023
+    second: LIGHT_GO_UP_51
+  - first:
+      213: -8550566741258536097
+    second: LIGHT_GO_UP_52
+  - first:
+      213: 5165237054488683657
+    second: LIGHT_GO_UP_53
+  - first:
+      213: -4926240211249423640
+    second: LIGHT_GO_UP_54
+  - first:
+      213: -2128970086932564206
+    second: LIGHT_GO_UP_55
+  - first:
+      213: -7608554605606254624
+    second: LIGHT_GO_UP_56
+  - first:
+      213: -465366545235652924
+    second: LIGHT_GO_UP_57
+  - first:
+      213: -5394626589237522842
+    second: LIGHT_GO_UP_58
+  - first:
+      213: -4996117674317128658
+    second: LIGHT_GO_UP_59
+  - first:
+      213: -3704656469183030836
+    second: LIGHT_GO_UP_60
+  - first:
+      213: -948589463385643572
+    second: LIGHT_GO_UP_61
+  - first:
+      213: -2724890006092232869
+    second: LIGHT_GO_UP_62
+  - first:
+      213: 7793948592939979209
+    second: LIGHT_GO_UP_63
+  - first:
+      213: 1483035700039537163
+    second: LIGHT_GO_UP_64
+  - first:
+      213: -3665756146440238037
+    second: LIGHT_GO_UP_65
+  - first:
+      213: -8478629923018321390
+    second: LIGHT_GO_UP_66
+  - first:
+      213: -5557292848649026591
+    second: LIGHT_GO_UP_67
+  - first:
+      213: 8543914576380984722
+    second: LIGHT_GO_UP_68
+  - first:
+      213: -4730549828900379435
+    second: LIGHT_GO_UP_69
+  - first:
+      213: 8907212768926679520
+    second: LIGHT_GO_UP_70
+  - first:
+      213: -8481527354625028745
+    second: LIGHT_GO_UP_71
+  - first:
+      213: -8090712094201675575
+    second: LIGHT_GO_UP_72
+  - first:
+      213: -4665736600659501728
+    second: LIGHT_GO_UP_73
+  - first:
+      213: 5347981848830746375
+    second: LIGHT_GO_UP_74
+  - first:
+      213: 5457235673897194697
+    second: LIGHT_GO_UP_75
+  - first:
+      213: 914770753132216704
+    second: LIGHT_GO_UP_76
+  - first:
+      213: 61581300409836048
+    second: LIGHT_GO_UP_77
+  - first:
+      213: -2016059319467092381
+    second: LIGHT_GO_UP_78
+  - first:
+      213: 6270072551442798876
+    second: LIGHT_GO_UP_79
+  - first:
+      213: -6206564616815702630
+    second: LIGHT_GO_UP_80
+  - first:
+      213: -7107085142790226600
+    second: LIGHT_GO_UP_81
+  - first:
+      213: 1059153057789950776
+    second: LIGHT_GO_UP_82
+  - first:
+      213: -8554823485735507598
+    second: LIGHT_GO_UP_83
+  - first:
+      213: 3201600058781640080
+    second: LIGHT_GO_UP_84
+  - first:
+      213: 4888849368341714118
+    second: LIGHT_GO_UP_85
+  - first:
+      213: 3606624400033500627
+    second: LIGHT_GO_UP_86
+  - first:
+      213: 4646312504596001260
+    second: LIGHT_GO_UP_87
+  - first:
+      213: -1045827560868837139
+    second: LIGHT_GO_UP_88
+  - first:
+      213: -3963919458215568350
+    second: LIGHT_GO_UP_89
+  - first:
+      213: -6788434253624411806
+    second: LIGHT_GO_UP_90
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_0
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 9064
+        width: 590
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae1fa44889d05d50800000000000000
+      internalID: 6724113422955257518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_1
+      rect:
+        serializedVersion: 2
+        x: 3764
+        y: 9112
+        width: 646
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee56cc8561dde4710800000000000000
+      internalID: 1679522799104583150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_2
+      rect:
+        serializedVersion: 2
+        x: 4514
+        y: 8118
+        width: 971
+        height: 1277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de89e4c2e6d2837f0800000000000000
+      internalID: -632705796432553747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_3
+      rect:
+        serializedVersion: 2
+        x: 8357
+        y: 8156
+        width: 983
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b66ace1818818560800000000000000
+      internalID: 7314276907003569840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_4
+      rect:
+        serializedVersion: 2
+        x: 11187
+        y: 8898
+        width: 495
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a052eb7d60c4dd8e0800000000000000
+      internalID: -1667092694784137974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_5
+      rect:
+        serializedVersion: 2
+        x: 11705
+        y: 8898
+        width: 495
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d70d07115731ef0800000000000000
+      internalID: -138638445750747753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_6
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 8123
+        width: 941
+        height: 935
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3a971d9020f8230800000000000000
+      internalID: 3643132864758391788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_7
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 7986
+        width: 935
+        height: 757
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3541e376e9793dc00800000000000000
+      internalID: 924249055133832275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_8
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 8679
+        width: 631
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e9eb0a6f061fcf0800000000000000
+      internalID: -220288294389375373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_9
+      rect:
+        serializedVersion: 2
+        x: 3793
+        y: 8731
+        width: 631
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f89d23aed4c44d50800000000000000
+      internalID: 6720713004443080946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_10
+      rect:
+        serializedVersion: 2
+        x: 5560
+        y: 8153
+        width: 854
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562cff3ad596e89e0800000000000000
+      internalID: -1617239365275106715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_11
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 8260
+        width: 619
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff5ab9ea5c56c080800000000000000
+      internalID: -9167538445927948304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_12
+      rect:
+        serializedVersion: 2
+        x: 7219
+        y: 8150
+        width: 858
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22d008b7ef2c10a0800000000000000
+      internalID: -6909595056022171090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_13
+      rect:
+        serializedVersion: 2
+        x: 11187
+        y: 8392
+        width: 495
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4075c75d3092b1d0800000000000000
+      internalID: -3336445780788154289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_14
+      rect:
+        serializedVersion: 2
+        x: 11705
+        y: 8397
+        width: 495
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d276de5e938eaaf0800000000000000
+      internalID: -383224202060729643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_15
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 7665
+        width: 351
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49624a79c011de900800000000000000
+      internalID: 715246661603174036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_16
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 7432
+        width: 395
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6825d64480702340800000000000000
+      internalID: 4836989713222281324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_17
+      rect:
+        serializedVersion: 2
+        x: 3411
+        y: 7817
+        width: 805
+        height: 723
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd485a83d818fa200800000000000000
+      internalID: 193515752540964059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_18
+      rect:
+        serializedVersion: 2
+        x: 8643
+        y: 7605
+        width: 494
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7023181eda00e30800000000000000
+      internalID: 4467762014398318569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_19
+      rect:
+        serializedVersion: 2
+        x: 11187
+        y: 7891
+        width: 495
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a077c3ac7e5b3df70800000000000000
+      internalID: 9210905670037829386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_20
+      rect:
+        serializedVersion: 2
+        x: 11705
+        y: 7892
+        width: 495
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b235c2324c083110800000000000000
+      internalID: 1240755175799730865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_21
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 6830
+        width: 696
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2b319b5bd33d6b0800000000000000
+      internalID: -5272802888017268045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_22
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 7492
+        width: 393
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044ea6b5cad4e5d60800000000000000
+      internalID: 7880821800608392256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_23
+      rect:
+        serializedVersion: 2
+        x: 3417
+        y: 6932
+        width: 976
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa707b74538f4f80800000000000000
+      internalID: -8120127204254254425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_24
+      rect:
+        serializedVersion: 2
+        x: 4514
+        y: 6950
+        width: 976
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96196b155abcb430800000000000000
+      internalID: 3800117060288714397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_25
+      rect:
+        serializedVersion: 2
+        x: 5670
+        y: 6896
+        width: 875
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37df1d91a61487c80800000000000000
+      internalID: -8324831987238830733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_26
+      rect:
+        serializedVersion: 2
+        x: 6671
+        y: 6961
+        width: 869
+        height: 858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694431f46a5bb9030800000000000000
+      internalID: 3502592861106554006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_27
+      rect:
+        serializedVersion: 2
+        x: 7713
+        y: 7057
+        width: 703
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39174b136ff8b83f0800000000000000
+      internalID: -897465413171646061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_28
+      rect:
+        serializedVersion: 2
+        x: 8625
+        y: 6945
+        width: 530
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436cd0f4d2ec30320800000000000000
+      internalID: 2523086910252762676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_29
+      rect:
+        serializedVersion: 2
+        x: 11187
+        y: 7373
+        width: 495
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa14b8833f69b410800000000000000
+      internalID: 1493347018577550066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_30
+      rect:
+        serializedVersion: 2
+        x: 11706
+        y: 7372
+        width: 494
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01dcda83c0e41d20800000000000000
+      internalID: 3248468361693942031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_31
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 6902
+        width: 552
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0f333926d56ac20800000000000000
+      internalID: 3217361661760630994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_32
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 6783
+        width: 720
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26185cf9c9e6ccbf0800000000000000
+      internalID: -302745455966191262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_33
+      rect:
+        serializedVersion: 2
+        x: 11187
+        y: 6866
+        width: 495
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d36cc96826970c70800000000000000
+      internalID: 8937277085857899477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_34
+      rect:
+        serializedVersion: 2
+        x: 11706
+        y: 6866
+        width: 494
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9d8a55bdd991d70800000000000000
+      internalID: 9014409694519286192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_35
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 5883
+        width: 893
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0d370f0d4fc07a0800000000000000
+      internalID: -6409478991430561554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_36
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 5955
+        width: 685
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cef6ddeeacd7f450800000000000000
+      internalID: 6122604862306188992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_37
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 6020
+        width: 548
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f584d8a11229ce640800000000000000
+      internalID: 5110620348035713119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_38
+      rect:
+        serializedVersion: 2
+        x: 3507
+        y: 5871
+        width: 856
+        height: 846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da848378a6882790800000000000000
+      internalID: -7554640316863313197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_39
+      rect:
+        serializedVersion: 2
+        x: 4597
+        y: 5847
+        width: 881
+        height: 882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91465d8c63197fbf0800000000000000
+      internalID: -290603986458418151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_40
+      rect:
+        serializedVersion: 2
+        x: 5712
+        y: 6045
+        width: 774
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3e5b130afb21360800000000000000
+      internalID: 7138979054085333970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_41
+      rect:
+        serializedVersion: 2
+        x: 6563
+        y: 6056
+        width: 757
+        height: 661
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9229378d0a82dcee0800000000000000
+      internalID: -1239289651165687255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_42
+      rect:
+        serializedVersion: 2
+        x: 7475
+        y: 6086
+        width: 792
+        height: 816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85376f9b59a15950800000000000000
+      internalID: 6436111553470608779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_43
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 4912
+        width: 936
+        height: 816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615ec606e6575bab0800000000000000
+      internalID: -4992955494945725162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_44
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 4852
+        width: 887
+        height: 882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3680f679279cae420800000000000000
+      internalID: 2660160023919790179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_45
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 4852
+        width: 863
+        height: 888
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467e2609267b50fe0800000000000000
+      internalID: -1223370089804142748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_46
+      rect:
+        serializedVersion: 2
+        x: 3534
+        y: 4912
+        width: 894
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430fb2532d55c1c70800000000000000
+      internalID: 8943117321374527540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_47
+      rect:
+        serializedVersion: 2
+        x: 4597
+        y: 4745
+        width: 881
+        height: 882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777e7388d77656890800000000000000
+      internalID: -7465447018442791049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_48
+      rect:
+        serializedVersion: 2
+        x: 5759
+        y: 5271
+        width: 601
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a083854857b57830800000000000000
+      internalID: 4068359428150362274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_49
+      rect:
+        serializedVersion: 2
+        x: 6404
+        y: 5253
+        width: 594
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22bb7b83f3337a70800000000000000
+      internalID: 8823453216059142701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_50
+      rect:
+        serializedVersion: 2
+        x: 7064
+        y: 5293
+        width: 631
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78e02b55ce374250800000000000000
+      internalID: 5928776451814910079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_51
+      rect:
+        serializedVersion: 2
+        x: 8411
+        y: 5100
+        width: 988
+        height: 976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa01ec6ad7ee50570800000000000000
+      internalID: 8432408100757967023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_52
+      rect:
+        serializedVersion: 2
+        x: 5908
+        y: 4805
+        width: 1942
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bf3070ad8465980800000000000000
+      internalID: -8550566741258536097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_53
+      rect:
+        serializedVersion: 2
+        x: 8303
+        y: 3869
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984ab750cbb9ea740800000000000000
+      internalID: 5165237054488683657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_54
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3756
+        width: 960
+        height: 959
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea9b32d0aa72abb0800000000000000
+      internalID: -4926240211249423640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_55
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 3726
+        width: 959
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217b3f65cf06472e0800000000000000
+      internalID: -2128970086932564206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_56
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 3703
+        width: 1019
+        height: 1018
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e74da6e5ebf86690800000000000000
+      internalID: -7608554605606254624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_57
+      rect:
+        serializedVersion: 2
+        x: 3519
+        y: 3691
+        width: 1036
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cec0ecb79faa89f0800000000000000
+      internalID: -465366545235652924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_58
+      rect:
+        serializedVersion: 2
+        x: 4692
+        y: 3673
+        width: 923
+        height: 923
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ece94f2bf6225b0800000000000000
+      internalID: -5394626589237522842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_59
+      rect:
+        serializedVersion: 2
+        x: 5807
+        y: 4257
+        width: 2228
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cd64e12793aaab0800000000000000
+      internalID: -4996117674317128658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_60
+      rect:
+        serializedVersion: 2
+        x: 9775
+        y: 4143
+        width: 2228
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc91e73c19a669cc0800000000000000
+      internalID: -3704656469183030836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_61
+      rect:
+        serializedVersion: 2
+        x: 5807
+        y: 3810
+        width: 2228
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5683da8eee5d2f0800000000000000
+      internalID: -948589463385643572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_62
+      rect:
+        serializedVersion: 2
+        x: 9781
+        y: 3691
+        width: 2216
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b574cdef9fe3f2ad0800000000000000
+      internalID: -2724890006092232869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_63
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2749
+        width: 743
+        height: 739
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1d7df73faa92c60800000000000000
+      internalID: 7793948592939979209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_64
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 2708
+        width: 804
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02541a9c1dc49410800000000000000
+      internalID: 1483035700039537163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_65
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 2668
+        width: 887
+        height: 903
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c8932f43e902dc0800000000000000
+      internalID: -3665756146440238037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_66
+      rect:
+        serializedVersion: 2
+        x: 3125
+        y: 2696
+        width: 882
+        height: 851
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212de78b10bd55a80800000000000000
+      internalID: -8478629923018321390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_67
+      rect:
+        serializedVersion: 2
+        x: 4145
+        y: 2643
+        width: 982
+        height: 940
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3c473199780e2b0800000000000000
+      internalID: -5557292848649026591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_68
+      rect:
+        serializedVersion: 2
+        x: 5258
+        y: 2637
+        width: 888
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d78742a05129670800000000000000
+      internalID: 8543914576380984722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_69
+      rect:
+        serializedVersion: 2
+        x: 6426
+        y: 2732
+        width: 882
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4ab108ef5b95eb0800000000000000
+      internalID: -4730549828900379435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_70
+      rect:
+        serializedVersion: 2
+        x: 7518
+        y: 2709
+        width: 821
+        height: 821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1c2b622d6cc9b70800000000000000
+      internalID: 8907212768926679520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_71
+      rect:
+        serializedVersion: 2
+        x: 8563
+        y: 2624
+        width: 950
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d01dadecf8b4a80800000000000000
+      internalID: -8481527354625028745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_72
+      rect:
+        serializedVersion: 2
+        x: 9787
+        y: 3232
+        width: 2210
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0072d773408bf80800000000000000
+      internalID: -8090712094201675575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_73
+      rect:
+        serializedVersion: 2
+        x: 9787
+        y: 2791
+        width: 2204
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dd6262849ff3fb0800000000000000
+      internalID: -4665736600659501728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_74
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1558
+        width: 910
+        height: 935
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f1bcc1829d73a40800000000000000
+      internalID: 5347981848830746375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_75
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1558
+        width: 1285
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c45b368eeefbbb40800000000000000
+      internalID: 5457235673897194697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_76
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 1558
+        width: 1286
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081cc5f372be1bc00800000000000000
+      internalID: 914770753132216704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_77
+      rect:
+        serializedVersion: 2
+        x: 3691
+        y: 1498
+        width: 1252
+        height: 1049
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0122cbfcdd7cad000800000000000000
+      internalID: 61581300409836048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_78
+      rect:
+        serializedVersion: 2
+        x: 5038
+        y: 1558
+        width: 1283
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3665c010bb48504e0800000000000000
+      internalID: -2016059319467092381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_79
+      rect:
+        serializedVersion: 2
+        x: 6408
+        y: 1498
+        width: 1252
+        height: 1061
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19dca8e3c5c30750800000000000000
+      internalID: 6270072551442798876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_80
+      rect:
+        serializedVersion: 2
+        x: 7743
+        y: 1558
+        width: 1287
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d01336d5addd9a0800000000000000
+      internalID: -6206564616815702630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_81
+      rect:
+        serializedVersion: 2
+        x: 9173
+        y: 1559
+        width: 1222
+        height: 934
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d3883b7bf8e5d90800000000000000
+      internalID: -7107085142790226600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_82
+      rect:
+        serializedVersion: 2
+        x: 10520
+        y: 1558
+        width: 1184
+        height: 1001
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bb65c281ed2be00800000000000000
+      internalID: 1059153057789950776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_83
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 3
+        width: 1202
+        height: 1255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279e0987d59274980800000000000000
+      internalID: -8554823485735507598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_84
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 33
+        width: 1221
+        height: 1197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095ac886a4e5e6c20800000000000000
+      internalID: 3201600058781640080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_85
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 21
+        width: 1228
+        height: 1206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c49668299ea8d340800000000000000
+      internalID: 4888849368341714118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_86
+      rect:
+        serializedVersion: 2
+        x: 4019
+        y: 0
+        width: 1293
+        height: 1265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddc04a78cd4d0230800000000000000
+      internalID: 3606624400033500627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_87
+      rect:
+        serializedVersion: 2
+        x: 5455
+        y: 21
+        width: 1303
+        height: 1239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce176ef0b940b7040800000000000000
+      internalID: 4646312504596001260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_88
+      rect:
+        serializedVersion: 2
+        x: 6868
+        y: 3
+        width: 1274
+        height: 1244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8891adf597c71f0800000000000000
+      internalID: -1045827560868837139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_89
+      rect:
+        serializedVersion: 2
+        x: 8209
+        y: 3
+        width: 1274
+        height: 1244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c5dc621445df8c0800000000000000
+      internalID: -3963919458215568350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHT_GO_UP_90
+      rect:
+        serializedVersion: 2
+        x: 9614
+        y: 57
+        width: 1537
+        height: 1292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2697f935303aac1a0800000000000000
+      internalID: -6788434253624411806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,44 @@
+# === UNITY ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+UserSettings/
+UIElementsSchema/
+
+# === VS / MSBUILD ===
+.vs/
+*.csproj
+*.sln
+*.unityproj
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.tmp
+*.booproj
+*.svd
+*.VC.db
+.vsconfig
+
+# === RIDER / JETBRAINS ===
+.idea/
+*.sln.iml
+
+# === VS CODE ===
+.vscode/
+
+# === SYSTEM FILES ===
+.DS_Store
+Thumbs.db
+
+# === APK / ANDROID ===
+*.apk
+*.aab
+
+# === SECRET FILES ===
+*.keystore
